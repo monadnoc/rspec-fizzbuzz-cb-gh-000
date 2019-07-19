@@ -11,5 +11,5 @@ def fizzbuzz(integ)
     "Buzz"
   end
 end
-  
+
   
